@@ -8,11 +8,11 @@ The goal is to build a system capable of solving basic numerical and mathematica
 
 ## Architecture
 
-FIRST MODEL :MLP:
+First Model -- MLP :
 
-Input → Dense → ReLU → Dense → Output
+structure ( Input / Dense / ReLU / Dense / Output )
 
-SECOND MODEL :NAC:
+Second Model -- NAC:
 
 ---
 
